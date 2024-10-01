@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oct1st68
 - 👀 I’m interested in sleeping
 - 🌱 I’m currently learning how to make game by c++, java, and maybe a little AI in the future
-- 📫 How to reach me ITCSIU24091@student.hcmiu.edu.vn
+- 📫 How to reach me trungpnn.si.k2124@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: if you know, you know
 
