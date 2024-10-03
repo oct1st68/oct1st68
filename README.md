@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oct1st </h1>
-<h3 align="center">I'm currently student at HCMIU</h3>
+<h3 align="center">I'm currently studying CS at HCMIU</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oct1st68&label=Profile%20views&color=0e75b6&style=flat" alt="oct1st68" /> </p>
 
